@@ -1,5 +1,5 @@
 # AnalyzingEcommerceTransactions
-This project [!https://hicounselor.com/projects/analyzing-e-commerce-transactions-data-cleaning-cohort-analysis-and-sql] is offered by Hicounselor.
+This [project](https://hicounselor.com/projects/analyzing-e-commerce-transactions-data-cleaning-cohort-analysis-and-sql) is offered by Hicounselor.
 
 ### Problem Context
 In the fast-changing world of online shopping, our data whiz, Alex, embarked on an exciting journey.  
