@@ -109,5 +109,6 @@ There are 6800 instances of products where list price is atleast twice the stand
 |88	|1198.46	|381.1|
 |78	|1765.30	|709.48|
 |15	|1292.84	|13.4|
+|...|...|...|
 
 
