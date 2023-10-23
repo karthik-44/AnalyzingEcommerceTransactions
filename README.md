@@ -24,12 +24,12 @@ The below are the steps for answering the questions of tasks in each module.
 ### Task 1: Polishing the Dataset for Insights
 In the realm of e-commerce, data analyst Alex undertook the critical mission of transforming the "transaction_dataset.csv" into a strategic asset. He meticulously cleaned the data to ensure precision, eliminating extraneous columns such as "product_class" and "product_size." Furthermore, he revamped column names to enhance clarity.
 
-The objective of this ### Task was both simple and pivotal: to equip the organization with top-tier data for facilitating informed decision-making. It aimed to create a well-defined pathway towards data-driven insights that would steer the e-commerce platform toward resounding success.
+The objective of this task was both simple and pivotal: to equip the organization with top-tier data for facilitating informed decision-making. It aimed to create a well-defined pathway towards data-driven insights that would steer the e-commerce platform toward resounding success.
 
 
 
 
-In the ever-evolving realm of e-commerce, our mission is to unravel the intricate tapestry of customer behavior and engagement. We embark on a journey of data exploration and analysis, starting with the meticulous cleaning of our transaction dataset. By isolating and understanding 'Approved' transactions, we aim to uncover the patterns that lead to customer satisfaction and loyalty. Our voyage continues as we delve into cohort analysis, charting the trajectories of customer groups over time. Through these ### Tasks, we seek to decipher the secrets of customer retention, identify growth opportunities, and ensure our e-commerce platform thrives in a dynamic digital landscape. This is a story of data-driven discovery, where each ### Task brings us closer to delivering an exceptional online shopping experience.
+In the ever-evolving realm of e-commerce, our mission is to unravel the intricate tapestry of customer behavior and engagement. We embark on a journey of data exploration and analysis, starting with the meticulous cleaning of our transaction dataset. By isolating and understanding 'Approved' transactions, we aim to uncover the patterns that lead to customer satisfaction and loyalty. Our voyage continues as we delve into cohort analysis, charting the trajectories of customer groups over time. Through these tasks, we seek to decipher the secrets of customer retention, identify growth opportunities, and ensure our e-commerce platform thrives in a dynamic digital landscape. This is a story of data-driven discovery, where each task brings us closer to delivering an exceptional online shopping experience.
 
 
 ## Module 2
@@ -92,8 +92,8 @@ We are inquiring about the top product lines with the highest average list price
 |----|----|
 |Touring	|1620.209822|
 |Standard	|1102.751771|
-|Road	1018.017164|
-|Mountain	628.535981|
+|Road|	1018.017164|
+|Mountain|	628.535981|
 
 
 
