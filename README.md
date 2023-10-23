@@ -60,7 +60,8 @@ Cohort analysis involves studying how groups of customers evolve over time. The 
 Percentages speak volumes when it comes to understanding customer engagement. Calculating cohort percentages allows us to see how each cohort's size changes over time relative to its initial size. This step is crucial because it helps us gauge the effectiveness of our strategies in retaining and engaging customers. Ultimately, it guides us in optimizing our efforts to improve customer loyalty and satisfaction.
 
 ## Module 3
-### Task 1: Data Download, Import, and Database Connection.
+### Task 1: Data Download, Import, and Database Connection.  
+Download the csv file and connect to the database using the connection details provided and import the csv to the database.  
 
 ### Task 2: What are the unique brands available in the dataset?
 We are enquiring about the unique brands available in the dataset to gain insights into the variety of products and manufacturers present in our sales records. This information can help us understand the market presence and popularity of different brands among our customers.
